@@ -48,13 +48,16 @@ Using historical sales and external factors such as holidays, temperature, fuel 
 
 ---
 
----
-
 ## 💡 Key Insights
 - Holiday weeks generally produce **higher sales spikes** compared to non-holiday weeks.
 - Certain stores show **consistent top performance**, while others show high variance due to regional factors.
 - **Temperature and fuel price fluctuations** have a noticeable correlation with weekly sales trends.
 - Forecasting models can guide **inventory and staffing adjustments** ahead of high-demand periods.
 
+---
 
+## 📬 Author
+**Pallugulla Harish Reddy**  
+🔗 [LinkedIn](https://linkedin.com/in/pallugulla-harish-reddy-146a7a1a0)  
+📧 harishreddy2015@gmail.com
 
