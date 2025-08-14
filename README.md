@@ -37,6 +37,9 @@ Using historical sales and external factors such as holidays, temperature, fuel 
 - **External Factor Analysis**: Studying how temperature, fuel price, CPI, and unemployment affect sales.
 - **Store-wise Performance**: Ranking and filtering stores by revenue.
 - **Forecasting**: Predicting future sales using historical trends and DAX forecasting features.
+- 
+  <img width="1335" height="753" alt="image" src="https://github.com/user-attachments/assets/b7a03c2c-d90f-4ffc-a7a8-7c86b2c6b6bc" />
+
 
 ---
 
